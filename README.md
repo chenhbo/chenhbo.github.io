@@ -1,4 +1,9 @@
+# Added Features
 
+1. Add entry.doi for each paper to link the doi website
+2. Add entry.cofirst for each paper to show co-first author
+3. Modify entry.corr for each paper to show corresponding author
+4. Using   gem "jekyll-scholar" in Gemfile for bibliography
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
@@ -25,7 +30,7 @@ When you are initially working your website, it is very useful to be able to pre
 1. Clone the repository and made updates as detailed above.
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `jekyll serve -l -H localhost` or `bundle exec jekyll serve -l`to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essentials gcc make`
 
