@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Hongbo Chen (陈宏博), a joint Ph.D. student in 
+I am Hongbo, a joint Ph.D. student in 
 [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) 
 and [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/). 
 I am affiliated to [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/sist_en/). 
