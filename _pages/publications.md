@@ -10,9 +10,13 @@ years_conference: [2023, 2022, 2021, 2020, 2019]
 nav: true
 ---
 
-[[Google scholar](https://scholar.google.ca/citations?user=Jlnqt6MAAAAJ&hl=en)] | [[ORCID](https://orcid.org/0000-0003-4162-0073)] | [[View by topic](http://chenhbo.github.io/Research/)]
 
-&dagger;means equal contribution.
+[[Google scholar](https://scholar.google.ca/citations?user=Jlnqt6MAAAAJ&hl=en)] | [[ORCID](https://orcid.org/0000-0003-4162-0073)] | [[View by Research Project](http://chenhbo.github.io/research/)]
+
+&dagger;Equal Contribution.
+
+<hr style="border-top: 2px solid #ccc; margin: 20px 0;">
+
 
 ## Preprints
 

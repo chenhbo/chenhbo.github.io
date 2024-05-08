@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<hr style="border-top: 2px solid #ccc; margin: 20px 0;">
+
 **-Current-**
 
 * **Neural Implicit Surface/Shape Reconstruction for 3D Ultrasound Imaging**, *Sep 2023 - present*
