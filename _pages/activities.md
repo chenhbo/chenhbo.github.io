@@ -13,7 +13,7 @@ author_profile: true
 
 * 2019 IEEE International Ultrasonics Symposium (IUS), Glasgow, United Kingdom
 
-* 2023 IEEE International Ultrasonics Symposium (IUS), Montreal, Canadaßß
+* 2023 IEEE International Ultrasonics Symposium (IUS), Montreal, Canada
 
 
 ## Teaching Assistants (TAs), 2018 - 2022
