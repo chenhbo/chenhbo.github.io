@@ -3,12 +3,31 @@
 1. Add entry.doi for each paper to link the doi website
 2. Add entry.cofirst for each paper to show co-first author
 3. Modify entry.corr for each paper to show corresponding author
-4. Using   gem "jekyll-scholar" in Gemfile for bibliography
+4. Using gem "jekyll-scholar" in Gemfile for bibliography
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 Academic Pages is a Github Pages template for academic websites.
+
+
+# For MacOS
+1. Config for local
+    * rvm:  source ~/.rvm/scripts/rvm
+    * rvm use 2.5.1
+    * cd chenhbo.github.io
+    * bundle clean
+    * bundle install
+    * bundle exec jekyll serve -l
+
+2. Git
+    * git add ./
+    * git commit -m "update"
+    * git push
+
+2. Config for Github page
+    * Setting -> Pages -> Build and deployment -> Github Actions
+    * Actions - > Deploy Jekyll site to Page -> ruby-version: '2.5.1'
 
 
 # Getting Started
