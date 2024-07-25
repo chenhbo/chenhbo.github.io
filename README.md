@@ -10,6 +10,21 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
+# For MacOS Local
+
+```
+source ~/.rvm/scripts/rvm
+
+rvm use 2.5.1
+
+bundle clean --force
+
+bundle install
+
+bundle exec jekyll serve -l
+
+```
+
 
 # For MacOS
 1. Config for local

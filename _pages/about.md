@@ -26,11 +26,24 @@ for clinical use, including 3D reconstruction and visualization, medical object 
 
 ------
 
-## Selected Paper: ##
+## Selected Papers: ##
 
-Honored Front Cover for Issue10 VOLUME 68 in OCTOBER 2021 in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (IEEE-TUFFC), doi: [10.1109/TUFFC.2021.3087712](10.1109/TUFFC.2021.3087712)
+- <span style="color: red;">News!</span>
+  One paper has been accepted by International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024
+
+  "RoCoSDF: Row-Column Scanned Neural Signed Distance Fields for Freehand 3D ultrasound Imaging Shape Reconstruction"
 <div  align="center">    
- <img src="/images/UFFCCover.png" width = "500"  alt="Framework" align=center />
+<img src="/images/Fig_MICCAI2024.png" width = "650"  alt="Framework" align=center />
+  <p style="text-align: center;">&copy; Copyright Springer MICCAI 2024</p>
 
 </div>
-@Copyright IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+
+
+
+- Honored Front Cover for Issue10 VOLUME 68 in OCTOBER 2021 in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (IEEE-TUFFC).
+
+  "Improvement of 3-D Ultrasound Spine Imaging Technique Using Fast Reconstruction Algorithm", doi: [10.1109/TUFFC.2021.3087712](10.1109/TUFFC.2021.3087712)
+  <div  align="center">    
+  <img src="/images/UFFCCover.png" width = "500"  alt="Framework" align=center />
+    <p style="text-align: center;">&copy; Copyright IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control</p>
+  </div>
