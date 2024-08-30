@@ -9,7 +9,7 @@ redirect_from:
 
 
 I am Hongbo Chen (陈宏博), a joint Ph.D. student in 
-[ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/) 
+[ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/){style:"color: purple;"} 
 and [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/). 
 I am affiliated to [School of Information Science and Technology (SIST)](https://sist.shanghaitech.edu.cn/sist_en/). 
 My supervisor is Dr. [Rui Zheng](https://sist.shanghaitech.edu.cn/zhengrui_en/main.htm). 
@@ -27,6 +27,7 @@ for clinical use, including 3D reconstruction and visualization, medical object 
 ------
 
 ## Selected Papers: ##
+
 
 - <span style="color: red;">News!</span>
   One paper has been accepted by journal Medical Image Analysis
