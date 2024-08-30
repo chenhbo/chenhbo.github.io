@@ -1,10 +1,20 @@
 @inproceedings{chenRoCoSDFRowColumnScanned2024,
-  title = {{{RoCoSDF}}: {{Row-Column Scanned Neural Signed Distance Fields}} for {{Freehand 3D}} Ultrasound {{Imaging Shape Reconstruction}}},
-  author = {Chen, Hongbo and Zhang, Shuhang and Gao, Yuchong and Ma, Yuexin and Zheng, Rui},
+  title = {{{RoCoSDF}}: {{Row-Column Scanned Neural Signed Distance Fields}} for {{Freehand 3D Ultrasound Imaging Shape Reconstruction}}},
+  booksubtitle  = {International Conference of Medical Image Computing and Computer Assisted Intervention – MICCAI 2024},
+  shorttitle = {{{RoCoSDF}}},
+  author = {\textbf{Chen}, \textbf{Hongbo} and Gao, Yuchong and Zhang, Shuhang and Wu, Jiangjie and Ma, Yuexin and Zheng, Rui},
   year = {2024},
-  month = oct,
-  booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
+  month = aug,
+  eprint = {2408.07325},
+  primaryclass = {cs, eess},
+  publisher = {International Conference of Medical Image Computing and Computer Assisted Intervention – MICCAI 2024},
+  doi = {10.48550/arXiv.2408.07325},
+  urldate = {2024-08-30},
+  abstract = {The reconstruction of high-quality shape geometry is crucial for developing freehand 3D ultrasound imaging. However, the shape reconstruction of multi-view ultrasound data remains challenging due to the elevation distortion caused by thick transducer probes. In this paper, we present a novel learning-based framework RoCoSDF, which can effectively generate an implicit surface through continuous shape representations derived from row-column scanned datasets. In RoCoSDF, we encode the datasets from different views into the corresponding neural signed distance function (SDF) and then operate all SDFs in a normalized 3D space to restore the actual surface contour. Without requiring pre-training on large-scale ground truth shapes, our approach can synthesize a smooth and continuous signed distance field from multi-view SDFs to implicitly represent the actual geometry. Furthermore, two regularizers are introduced to facilitate shape refinement by constraining the SDF near the surface. The experiments on twelve shapes data acquired by two ultrasound transducer probes validate that RoCoSDF can effectively reconstruct accurate geometric shapes from multi-view ultrasound data, which outperforms current reconstruction methods. Code is available at https://github.com/chenhbo/RoCoSDF.},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Graphics,Electrical Engineering and Systems Science - Image and Video Processing},
 }
+
 
 
 @inproceedings{chenCompactWirelessFreehand2020,

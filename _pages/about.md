@@ -29,7 +29,17 @@ for clinical use, including 3D reconstruction and visualization, medical object 
 ## Selected Papers: ##
 
 - <span style="color: red;">News!</span>
-  One paper has been accepted by International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024
+  One paper has been accepted by journal Medical Image Analysis
+
+  "Neural implicit surface reconstruction of freehand 3D ultrasound volume with geometric constraints"
+<div  align="center">    
+<img src="/images/Fig_MIA2024.png" width = "650"  alt="Framework" align=center />
+  <p style="text-align: center;">&copy; Copyright Medical Image Analysis 2024</p>
+
+</div>
+
+- <span style="color: red;">News!</span>
+  One proceeding has been accepted by International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024
 
   "RoCoSDF: Row-Column Scanned Neural Signed Distance Fields for Freehand 3D ultrasound Imaging Shape Reconstruction"
 <div  align="center">    
