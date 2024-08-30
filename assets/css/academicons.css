@@ -570,14 +570,7 @@ border-radius: .1em;
   color: #fff;
 }
 
-.ai {
-  color: purple !important;
-}
-
-.ai:visited {
-  color: purple !important;
-}
-
-.ai:hover {
-  color: purple !important;
+.purple-link {
+  color: purple !important; /* 确保颜色设置优先 */
+  text-decoration: none; /* 可选：去掉下划线 */
 }
