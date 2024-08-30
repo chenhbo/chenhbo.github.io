@@ -570,7 +570,14 @@ border-radius: .1em;
   color: #fff;
 }
 
-/* 设置所有超链接为紫色 */
-a {
-  color: purple;
+.ai {
+  color: purple !important;
+}
+
+.ai:visited {
+  color: purple !important;
+}
+
+.ai:hover {
+  color: purple !important;
 }
