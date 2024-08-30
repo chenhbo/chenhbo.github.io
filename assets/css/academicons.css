@@ -569,3 +569,8 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+/* 设置所有超链接为紫色 */
+a {
+  color: purple;
+}
