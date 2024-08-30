@@ -31,7 +31,7 @@ for clinical use, including 3D reconstruction and visualization, medical object 
 - <span style="color: red;">News!</span>
   One paper has been accepted by journal Medical Image Analysis
 
-  "Neural implicit surface reconstruction of freehand 3D ultrasound volume with geometric constraints"
+  "Neural implicit surface reconstruction of freehand 3D ultrasound volume with geometric constraints",doi: [10.1016/j.media.2024.103305](10.1016/j.media.2024.103305)
 <div  align="center">    
 <img src="/images/Fig_MIA2024.png" width = "650"  alt="Framework" align=center />
   <p style="text-align: center;">&copy; Copyright Medical Image Analysis 2024</p>
@@ -41,7 +41,7 @@ for clinical use, including 3D reconstruction and visualization, medical object 
 - <span style="color: red;">News!</span>
   One proceeding has been accepted by International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024
 
-  "RoCoSDF: Row-Column Scanned Neural Signed Distance Fields for Freehand 3D ultrasound Imaging Shape Reconstruction"
+  "RoCoSDF: Row-Column Scanned Neural Signed Distance Fields for Freehand 3D ultrasound Imaging Shape Reconstruction", doi: [10.48550/arXiv.2408.07325](10.48550/arXiv.2408.07325)
 <div  align="center">    
 <img src="/images/Fig_MICCAI2024.png" width = "650"  alt="Framework" align=center />
   <p style="text-align: center;">&copy; Copyright Springer MICCAI 2024</p>
