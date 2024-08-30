@@ -571,6 +571,6 @@ border-radius: .1em;
 }
 
 .purple-link {
-  color: purple !important; /* 确保颜色设置优先 */
-  text-decoration: none; /* 可选：去掉下划线 */
+  color: purple !important;
+  text-decoration: none;
 }
