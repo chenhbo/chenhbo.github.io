@@ -38,7 +38,7 @@ for clinical use, including 3D reconstruction and visualization, medical object 
 </div>
 
 - <span style="color: red;">News!</span>
-  One proceeding has been accepted by International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024
+  One proceeding has been accepted as ORAL presentation at International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024.
 
   "RoCoSDF: Row-Column Scanned Neural Signed Distance Fields for Freehand 3D ultrasound Imaging Shape Reconstruction", doi: <a href="https://doi.org/10.48550/arXiv.2408.07325" class="purple-link"> 10.48550/arXiv.2408.07325</a>
 <div  align="center">    
