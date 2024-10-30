@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Updated on Sep 05, 2024](https://chenhbo.github.io/files/cv.pdf)
+[Updated on October 30, 2024](https://chenhbo.github.io/files/cv.pdf)

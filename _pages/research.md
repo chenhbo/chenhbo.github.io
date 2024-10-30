@@ -13,14 +13,14 @@ author_profile: true
 
 * **Neural Implicit Surface/Shape Reconstruction for 3D Ultrasound Imaging**, *Sep 2023 - present*
 
-    *  Multi-view Shape Reconstruction using Signed Distance Function (In progress)
+    *  Multi-view Shape Reconstruction using Signed Distance Function (In progress... [2024 MICCAI](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_67))
 
-    *  Single-view Surface Reconstruction using Signed Distance Function: [arXiv preprint](https://arxiv.org/abs/2401.05915)
+    *  Single-view Surface Reconstruction using Signed Distance Function: [2024 Medical Image Analysis ](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002305)
 
     *  Single-view Surface Reconstruction using Unsigned Distance Function: [2023 IEEE IUS Conference](https://ieeexplore.ieee.org/abstract/document/10307668)
     
     Currently, I mainly focus on the surface/shape reconstruction to improve the geometric quality and visualization appearance of the 3D ultrasound volume.
-    Traditional methods, such as ISO-Surface and Poisson surface reconstruction, cannot produce a high-quality surface due to image noise. Despite improvements in smoothness, continuity, and resolution from deep learning approaches, research on surface reconstruction in freehand 3D ultrasound is still missing. However, deep learning-based approaches are challenging for 3D ultrasound due to difficult-to-extract boundaries and unavailable large-scale training data or templates.
+    Traditional methods, such as ISO-Surface and Poisson surface reconstruction, cannot produce a high-quality surface due to image noise. Despite improvements in smoothness, continuity, and resolution by deep learning approaches, research on surface reconstruction in freehand 3D ultrasound is still missing. However, deep learning-based approaches are challenging for 3D ultrasound due to the difficult-to-extract boundaries and unavailable large-scale training data or templates.
     In this project, we propose a self-supervised neural implicit surface/shape reconstruction method to learn (un)signed distance functions (SDF, UDF) from ultrasound volumes. The proposed method demonstrates its adaptability to various anatomical structures and improved high-resolution visual quality. 
 
 <div  align="center">    
@@ -36,12 +36,12 @@ author_profile: true
     * 3D Carotid artery Imaging System: [2023 IEEE TUFFC Journal](https://ieeexplore.ieee.org/abstract/document/10368098)
     * 3D Intraoral Imaging System:, supervised by Dr. Lawrence H Le during my visiting in University of Alberta in 2023. [2023 IUS Conference](https://ieeexplore.ieee.org/abstract/document/10308083)
 
-    This project aims to build portable freehand 3D ultrasound imaging systems for various applications. The development of a freehand 3D ultrasound imaging system a rapidly advancing technology to obtain the high-quality 3D volumes without the limitation of field-of-view. Such imaging system commonly compounds the collected 2D B-mode images from the transducer and the corresponding 3D poses from the tracking device into a volume to reconstruct the 3D internal structures of the human body. The system can be built following two main positioning strategies:
+    This project aims to build portable freehand 3D ultrasound imaging systems for various applications. The development of freehand 3D ultrasound imaging system is a rapid advancing technology to obtain the high-quality 3D volumes without the limitation of field-of-view. Such imaging system commonly compounds the collected 2D B-mode images from the transducer and the corresponding 3D poses from the tracking device into a volume to reconstruct the 3D internal structures of the human body. The system can be built following two main positioning strategies:
     1)	Electromagnetic tracking and 2) Optical tracking.
     The electromagnetic tracking method is simple to use, flexible to install, and low-cost, but it is limited by accuracy and magnetic field interference. 
     The optical tracking method has the advantages of high accuracy and stable positioning, but it is easily affected by occlusion.
 
-    In this project, we design our systems according to different clinical scenarios. We customize a windows client for data collection, image processing and visualization. 
+    In this project, we design our systems according to different clinical scenarios. We customize a Windows client for data collection, image processing and visualization. 
 
     1)	3D Spine imaging system. A wireless convex ultrasound scanner (5 MHz) and an EM tracking device are used to build this system.
     
@@ -49,7 +49,7 @@ author_profile: true
 
     3)	3D Carotid artery imaging system. A linear array ultrasound scanner (10 MHz) and an EM tracking device are used to build this system.
     
-    4)	3D Intraoral Imaging System. An in-house designed high-frequency ultrasound transducer (20 MHz) and an optical tracking device are combined to build this system. I finished this project in University of Alberta supervised by Dr.Lawrence H Le during my visiting in 2023.
+    4)	3D Intraoral Imaging System. An in-house designed high-frequency ultrasound transducer (20 MHz) and an optical tracking device are combined to build this system. I finished this project in University of Alberta supervised by Dr. Lawrence H Le during my visiting in 2023.
 
 <div  align="center">    
  <img src="/images/PortableSystem.png" width = "500"  alt="Framework" align=center />

@@ -9,11 +9,21 @@ author_profile: true
 
 <hr style="border-top: 2px solid #ccc; margin: 20px 0;">
 
-## Presentations, 2018 - 2023
+## Services
+
+* Reviewer, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (IEEE-TUFFC) 
+
+* Reviewer, IEEE Journal of Biomedical and Health Informatics (JBHI)
+
+
+## Presentations, 2018 - 2024
+
+* 2024 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Marrakesh, Morocco. Oral Presentation. Best Paper Award.
+
+* 2023 IEEE International Ultrasonics Symposium (IUS), Montreal, Canada
 
 * 2019 IEEE International Ultrasonics Symposium (IUS), Glasgow, United Kingdom
 
-* 2023 IEEE International Ultrasonics Symposium (IUS), Montreal, Canada
 
 
 ## Teaching Assistants (TAs), 2018 - 2022
@@ -40,10 +50,10 @@ During my graduate studies, I participated in various activities of ShanghaiTech
 ## Community, 2014 - 2022
 During my undergraduate studies, I joined the Electronic Society of Changchun University of Science and Technology and the Jilin Province Undergraduate Student Innovation Practice Base.
 
-* Member, 2014-2015
+* Student Chair in Jilin Province Undergraduate Student Innovation Practice Base, 2017-2018
+* Student Chair in Undergraduate Electronic Society, 2016-2017
 * Student Leader, 2015-2016
-* Student Chairman in Undergraduate Electronic Society, 2016-2017
-* Student Chairman in Jilin Province Undergraduate Student Innovation Practice Base, 2017-2018
+* Member, 2014-2015
 
 
 ## Competitions, 2014 - 2019
