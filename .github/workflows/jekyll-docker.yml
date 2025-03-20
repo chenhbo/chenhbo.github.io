@@ -13,12 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4  # 检出代码
 
-      - name: Build the site in the ruby:4.4.4 container
+      - name: Build the site in the ruby:2.5.1 container
         run: |
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          ruby:2.7.3 /bin/bash -c "
-            gem install bundler jekyll &&  # 安装 Bundler 和 Jekyll
-            bundle install &&             # 安装 Gemfile 中的依赖
-            jekyll build --future         # 构建 Jekyll 站点
+          ruby:2.5.1 /bin/bash -c "
+            gem update --system &&           # 更新 RubyGems
+            gem install ffi -v 1.17.1 &&     # 安装兼容的 ffi 版本
+            gem install bundler -v 2.3.27 &&  # 安装兼容的 bundler 版本
+            bundle install &&                # 安装 Gemfile 中的依赖
+            jekyll build --future            # 构建 Jekyll 站点
           "
