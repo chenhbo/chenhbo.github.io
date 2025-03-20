@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongbo Chen (陈宏博), a joint Ph.D. student in 
-<a href="https://www.shanghaitech.edu.cn/eng/" class="purple-link">ShanghaiTech University</a> and <a href="https://english.ucas.ac.cn/" class="purple-link"> University of Chinese Academy of Sciences</a>. I am affiliated to <a href="https://sist.shanghaitech.edu.cn/sist_en/" class="purple-link"> School of Information Science and Technology (SIST)</a>. My supervisor is <a href="https://sist.shanghaitech.edu.cn/zhengrui_en/main.htm" class="purple-link"> Dr. Rui Zheng</a>. 
+Hi, I am Hongbo Chen (陈宏博). I acquired my Ph.D. degree in 
+<a href="https://www.shanghaitech.edu.cn/eng/" class="purple-link">ShanghaiTech University</a> and <a href="https://english.ucas.ac.cn/" class="purple-link"> University of Chinese Academy of Sciences</a>. I was affiliated to <a href="https://sist.shanghaitech.edu.cn/sist_en/" class="purple-link"> School of Information Science and Technology (SIST)</a>. My Ph.D. supervisor is <a href="https://sist.shanghaitech.edu.cn/zhengrui_en/main.htm" class="purple-link"> Dr. Rui Zheng</a>. 
 I visited Department of Radiology & Diagnostic Imaging in 
 <a href="hhttps://www.ualberta.ca/index.html" class="purple-link"> University of Alberta</a> from July 2022 to Octorber 2023, 
 supervised by <a href="https://sites.google.com/ualberta.ca/lel/home" class="purple-link"> Dr. Lawrence H Le</a> , 
