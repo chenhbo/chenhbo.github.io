@@ -28,9 +28,9 @@ and intelligent diagnostic platforms for freehand 3D ultrasound imaging, targeti
 ## Selected Papers: ##
 
 - <span style="color: red;">News!</span>
-  One proceeding has been accepted as ORAL presentation at International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024 <span style="color: red;">(Best Paper Award)</span>.
+  One proceeding has been accepted as ORAL presentation at International Conference on Medical Image Computing and Computer Assisted Intervention – MICCAI 2024 <span style="color: red;">(Best Paper Award)</span>. <a href="https://chenhbo.github.io/RoCoSDF" class="purple-link"> Project Page</a>.
 
-  "RoCoSDF: Row-Column Scanned Neural Signed Distance Fields for Freehand 3D ultrasound Imaging Shape Reconstruction", doi: <a href="https://doi.org/10.1007/978-3-031-72083-3_67" class="purple-link"> 10.1007/978-3-031-72083-3_67</a>,  <a href="https://chenhbo.github.io/RoCoSDF" class="purple-link"> Project Page</a>
+  "RoCoSDF: Row-Column Scanned Neural Signed Distance Fields for Freehand 3D ultrasound Imaging Shape Reconstruction", doi: <a href="https://doi.org/10.1007/978-3-031-72083-3_67" class="purple-link"> 10.1007/978-3-031-72083-3_67</a>
 
 <div  align="center">    
 <img src="/images/Fig_MICCAI2024.png" width = "650"  alt="Framework" align=center />
