@@ -8,13 +8,17 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-22.04
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:3.8 /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+      - uses: actions/checkout@v4  # 检出代码
+
+      - name: Build the site in the ruby:2.5.1 container
+        run: |
+          docker run \
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          ruby:2.5.1 /bin/bash -c "
+            gem install bundler jekyll &&  # 安装 Bundler 和 Jekyll
+            bundle install &&             # 安装 Gemfile 中的依赖
+            jekyll build --future         # 构建 Jekyll 站点
+          "
