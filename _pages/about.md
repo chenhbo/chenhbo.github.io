@@ -20,9 +20,8 @@ where I affiliated to School of Electronic Information Engineering and worked in
 
 
 
-I am investigating the development of freehand 3D ultrasound imaging and intelligent diagnostic systems
-for clinical use, including 3D reconstruction and visualization, medical object detection and surgical navigation. My research interests involve ultrasound imaging, medical image analysis, medical robotics, 
-motion correction, computer vision and computer graphics.
+My research interests include 3D reconstruction and scene representation, AI-based medical image analysis - segmentation/detection, biomedical ultrasound imaging and diagnosis. During my PhD project, I have focused on the development of 3D reconstruction
+and intelligent diagnostic platforms for freehand 3D ultrasound imaging, targeting applications for the structures of carotid artery, spine, and teeth.
 
 ------
 
