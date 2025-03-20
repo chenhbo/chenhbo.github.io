@@ -15,6 +15,7 @@ author_profile: true
 
 * Reviewer, IEEE Journal of Biomedical and Health Informatics (JBHI)
 
+* Reviewer, IEEE Transactions on Medical Imaging (IEEE-TMI) 
 
 ## Presentations, 2018 - 2024
 
