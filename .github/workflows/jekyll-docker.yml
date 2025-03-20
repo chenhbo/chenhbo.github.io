@@ -17,7 +17,7 @@ jobs:
         run: |
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          ruby:4.4.4 /bin/bash -c "
+          ruby:2.7.3 /bin/bash -c "
             gem install bundler jekyll &&  # 安装 Bundler 和 Jekyll
             bundle install &&             # 安装 Gemfile 中的依赖
             jekyll build --future         # 构建 Jekyll 站点
