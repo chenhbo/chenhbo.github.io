@@ -22,7 +22,7 @@ where I affiliated to School of Electronic Information Engineering and worked in
 
 My research interests include 3D reconstruction and scene representation, statistical shape modeling, AI-based medical image analysis - segmentation/detection, biomedical ultrasound imaging and diagnosis. During my PhD project, I have focused on the development of 3D reconstruction algorithms
 and intelligent diagnostic platforms.
-These algorithms and platforms have been successfully applied to freehand 3D ultrasound imaging for arious anatomical structures, including the carotid artery, spine, and teeth, demonstrating significant potential in enhancing diagnostic accuracy and efficiency in biomedical ultrasound imaging and diagnosis.
+These algorithms and platforms have been successfully applied to freehand 3D ultrasound imaging for various anatomical structures, including the carotid artery, spine, and teeth, demonstrating significant potential in enhancing diagnostic accuracy and efficiency in biomedical ultrasound imaging and diagnosis.
 
 
 
